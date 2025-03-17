@@ -67,6 +67,6 @@ Each model is evaluated using accuracy and classification reports to determine t
 
 - ## **Final Output**
 - You can access the deployed Streamlit app here:
-- 👉 [(https://email-spam-classifier-Vishal_S.streamlit.app/)]
+- 👉 [https://email-spam-classifier-pqrwaonjdbxeoqxqwa9vbc.streamlit.app/]
 
 ---
