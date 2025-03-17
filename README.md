@@ -65,8 +65,8 @@ Each model is evaluated using accuracy and classification reports to determine t
 - Add support for **multiple languages**  
 - Improve **spam detection with advanced NLP techniques**
 
-- 🔗 Final Output
-You can access the deployed Streamlit app here:
-👉 [(https://email-spam-classifier-Vishal_S.streamlit.app/)]
+- ## **Final Output**
+- You can access the deployed Streamlit app here:
+- 👉 [(https://email-spam-classifier-Vishal_S.streamlit.app/)]
 
 ---
